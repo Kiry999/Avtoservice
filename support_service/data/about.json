@@ -1,0 +1,6 @@
+{
+  "project": "Auto Logistics ERP",
+  "version": "1.0.0",
+  "stack": ["FastAPI", "Flask", "PostgreSQL", "JWT", "Raw SQL"],
+  "endpoints": {"core": "http://localhost:8080", "support": "http://localhost:5000"}
+}
